@@ -1,7 +1,6 @@
-# WebSocket-based-vedio-streaming
-WebSocket Video Streaming Project:
+# WebSocket-based-video-streaming
 Overview:
-	This project aims to implement a real-time video streaming solution using WebSocket communication. It includes both server and client-side code for streaming video frames over a network. The server captures video frames from a webcam and sends them to connected clients, while the client receives and displays the video in real-time.
+	This project aims to implement a real-time video streaming solution using WebSocket communication. It includes both server and client-side code for streaming video frames over a network. The server captures video frames from a webcam and sends them to connected clients, while the client receives and displays the video in real time.
 
 Features:
 	Utilizes Python, OpenCV, and WebSocket technology for video streaming.
